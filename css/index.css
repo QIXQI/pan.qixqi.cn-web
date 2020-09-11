@@ -1,0 +1,19 @@
+body{
+    background-image: url('/image/body.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    text-align: center;
+    margin-top: 20px;
+}
